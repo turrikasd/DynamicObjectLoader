@@ -5,5 +5,5 @@ using namespace std;
 
 void print_num(int input)
 {
-    cout << input << endl;
+    cout << (input + 1) << endl;
 }
